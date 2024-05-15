@@ -1,2 +1,2 @@
 # user_login
-Projeto de estudo com chamada de API, utilizando  React e Redux Toolkit.
+Projeto de estudo com chamada de API, utilizando  React, Tailwind e Redux Toolkit.
